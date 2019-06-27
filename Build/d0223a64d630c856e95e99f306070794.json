@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "RPG Untiy",
+"productVersion": "0.1",
+"dataUrl": "0075be45ff99a186e9aac37c4af8a928.unityweb",
+"wasmCodeUrl": "a95d4a0ba49d563b725423e1fca1056f.unityweb",
+"wasmFrameworkUrl": "a3211263584bf861a4d9b064878930b0.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
